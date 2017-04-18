@@ -4,35 +4,35 @@ Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
     Renderer: NVIDIA GeForce GTX 650 (ID=0xfc6)
     Vendor:   NVIDIA
-    VRAM:     971 MB
+    VRAM:     994 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: F:\Chrome Downloads\joc2_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading F:\Chrome Downloads\joc2_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: F:\Chrome Downloads\joc2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading F:\Chrome Downloads\joc2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: F:\Chrome Downloads\joc2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading F:\Chrome Downloads\joc2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: F:\Chrome Downloads\joc2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading F:\Chrome Downloads\joc2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: F:\Chrome Downloads\joc2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading F:\Chrome Downloads\joc2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: F:\Chrome Downloads\joc2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading F:\Chrome Downloads\joc2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: F:\Chrome Downloads\joc2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading F:\Chrome Downloads\joc2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: F:\Chrome Downloads\joc2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading F:\Chrome Downloads\joc2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: F:\Chrome Downloads\joc2_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.111 seconds
+Platform assembly: F:\3D-Unity-Game\joc2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\3D-Unity-Game\joc2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\3D-Unity-Game\joc2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\3D-Unity-Game\joc2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\3D-Unity-Game\joc2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\3D-Unity-Game\joc2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\3D-Unity-Game\joc2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\3D-Unity-Game\joc2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\3D-Unity-Game\joc2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\3D-Unity-Game\joc2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\3D-Unity-Game\joc2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\3D-Unity-Game\joc2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\3D-Unity-Game\joc2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\3D-Unity-Game\joc2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\3D-Unity-Game\joc2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\3D-Unity-Game\joc2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\3D-Unity-Game\joc2_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.093 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-Platform assembly: F:\Chrome Downloads\joc2_Data\Managed\System.dll (this message is harmless)
+Platform assembly: F:\3D-Unity-Game\joc2_Data\Managed\System.dll (this message is harmless)
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 19dc -> priority: 1 
+  Thread -> id: 2728 -> priority: 1 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 27.051302 ms
+UnloadTime: 4.220852 ms
 Failed to create agent because there is no valid NavMesh
  
 (Filename:  Line: 497)
@@ -43,7 +43,7 @@ Failed to create agent because there is no valid NavMesh
 
 
 Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2558.
-Total: 19.393587 ms (FindLiveObjects: 0.137064 ms CreateObjectMapping: 0.030127 ms MarkObjects: 19.089993 ms  DeleteObjects: 0.133091 ms)
+Total: 0.663470 ms (FindLiveObjects: 0.120179 ms CreateObjectMapping: 0.025823 ms MarkObjects: 0.429070 ms  DeleteObjects: 0.078795 ms)
 
 NullReferenceException: Object reference not set to an instance of an object
   at iesire.Start () [0x00000] in <filename unknown>:0 
@@ -82,6 +82,16 @@ NullReferenceException: Object reference not set to an instance of an object
 
 NullReferenceException: Object reference not set to an instance of an object
   at move_wall_z_minus.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Redim.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Redim.Update () [0x00000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
 
